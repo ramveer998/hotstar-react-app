@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+body {
+    background-color: #192133;
+}
+
+.homeComponent {
+    display: flex;
+    width: 100%;
+}
+
+.main-home {
+    margin-left: 250px;
+}

@@ -1,0 +1,131 @@
+{
+    "database": [
+        {
+            "id": 1,
+            "title": "Blue Hawk",
+            "genre": "Miller",
+            "rating": 4.5,
+            "lang": "Hindi"
+        },
+        {
+            "id": 2,
+            "title": "Eye",
+            "genre": "Killer",
+            "rating": 2.9,
+            "lang": "English"
+        },
+        {
+            "id": 3,
+            "title": "Ant Man",
+            "genre": "King",
+            "rating": 3.6,
+            "lang": "Hindi"
+        },
+        {
+            "id": 4,
+            "title": "Mr X",
+            "genre": "Allex",
+            "rating": 2.3,
+            "lang": "Tamil"
+        },
+        {
+            "id": 5,
+            "title": "Harry",
+            "genre": "Sam",
+            "rating": 3.8,
+            "lang": "English"
+        }
+    ],
+    "poster": [
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        },
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        },
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        },
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        },
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        },
+        {
+            "img": "img1.webp"
+        },
+        {
+            "img": "img2.webp"
+        },
+        {
+            "img": "img3.webp"
+        },
+        {
+            "img": "img4.webp"
+        },
+        {
+            "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7676/647676-v"
+        }
+    ]
+}

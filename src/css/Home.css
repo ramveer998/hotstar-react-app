@@ -1,0 +1,35 @@
+.banner{
+    margin-top: 60px;
+    text-align: center;
+}
+.banner img{
+    width: 90%;
+    height: 300px;
+    margin-bottom: 30px;
+}
+.home h2{
+    margin-left: 90px;
+    color: #fff;
+    display: inline;
+}
+.home h2:hover{
+    color: #1f80e0;
+}
+.img-row{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 150px;
+   
+}
+.img-row img{
+    margin: 12px 9px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+.img-row img:hover{
+    transform: scale(1.1);
+}
+.spinner{
+    filter: grayscale(0%);
+}

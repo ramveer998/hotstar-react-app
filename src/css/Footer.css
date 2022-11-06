@@ -1,0 +1,72 @@
+.footer {
+    display: flex;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    background-color: #111;
+    color: white;
+    z-index: 2;
+    position: fixed;
+    bottom: 0;
+    padding: 10px 20px;
+}
+
+.footer li {
+    display: inline;
+    margin-right: 30px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer a:hover {
+    color: #1f80e0;
+}
+
+.footer ul {
+    margin-bottom: 15px;
+}
+
+.footer div {
+    width: 50%;
+}
+
+.footer div {
+    display: inline;
+}
+
+.footer .col-2 {
+    display: flex;
+    text-align: center;
+}
+
+.col-2 a {
+    display: inline;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo-app-store {
+    display: flex;
+
+}
+
+.store-app img {
+    width: 120px;
+}
+
+.store-app img:hover {
+    color: #00acee;
+}
+
+.brand-logo i {
+    font-size: 44px;
+    margin: 0 10px;
+    color: #6c86c2;
+}
+
+.brand-logo i:hover {
+    color: #00acee;
+}
